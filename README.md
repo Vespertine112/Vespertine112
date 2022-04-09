@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 🌄 About Me :
 
 - 📖 I'm currently a student at Utah State University studying Computer Science.
-- ⛺ In my free time I love to get outside, or hack on projects of all kinds! 👓
+- ⛺ In my free time I love to get outside, or hack on projects of all kinds (you might find me working on my Corne V3)! 👓
 - ⚡ Currently, I am learning full-stack web development and having a blast! 
 
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🔧 Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
 
 </div>
+
 ---
 
 ### 📫 How to reach me :
