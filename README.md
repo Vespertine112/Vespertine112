@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 - 📖 I'm currently a student at Utah State University studying Computer Science.
 - ⛺ In my free time I love to get outside, or hack on projects of all kinds (you might find me working on my Corne V3)! 👓
-- ⚡ Currently, I am learning full-stack web development and having a blast! 
-
 
 ---
 
