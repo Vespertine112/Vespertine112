@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 🌄 About Me :
 
-- 📖 I'm currently a student at Utah State University studying Computer Science.
+- 📖 I'm currently a full-stack developer Global Vinyl Solutions.
 - ⛺ In my free time I love to get outside, or hack on projects of all kinds (you might find me working on my Corne V3)! 👓
 
 ---
