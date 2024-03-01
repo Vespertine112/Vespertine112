@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300em"/>
 </div>
 
-<h1 align="center">Hey there, [I'm Brayden](https://www.braydenhill.dev) 👋</h1>
+<h1 align="center">Hey there, I'm Brayden 👋</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brayden-hill/">
@@ -70,5 +70,6 @@ Here are some ideas to get you started:
 - Email: hillbgh@gmail.com
 - Discord: Vespertine#1865
 - Linkedin: <a href="https://www.linkedin.com/in/brayden-hill/">Brayden Hill</a>
+- My Website: [Braydenhill.dev](https://www.braydenhill.dev/)
 
 <em> I try and stay available, feel free to shoot me a message anytime!</em>
