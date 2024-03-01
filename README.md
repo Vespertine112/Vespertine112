@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300em"/>
 </div>
 
-<h1 align="center">Hey there, I'm Brayden 👋</h1>
+<h1 align="center">Hey there, [I'm Brayden](https://www.braydenhill.dev/) 👋</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brayden-hill/">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 🌄 About Me :
 
 - 📖 I'm currently a full-stack developer Global Vinyl Solutions.
-- ⛺ In my free time I love to get outside, or hack on projects of all kinds ([you might find me working on my Corne V3](https://github.com/foostan/crkbd) 👓
+- ⛺ In my free time I love to get outside, or hack on projects of all kinds ([you might find me working on my Corne V3](https://github.com/foostan/crkbd)) 👓
 
 ---
 
