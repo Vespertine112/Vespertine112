@@ -32,15 +32,14 @@ Here are some ideas to get you started:
 
 ### 🌄 About Me :
 
-- 📖 I'm currently a full-stack developer Global Vinyl Solutions.
+- 📖 I'm currently a full-stack developer for Global Vinyl Solutions.
 - ⛺ In my free time I love to get outside, or hack on projects of all kinds ([you might find me working on my Corne V3](https://github.com/foostan/crkbd)) 👓
+- 🌐 [Braydenhill.dev](https://www.braydenhill.dev/)
 
 ---
 
 ### 🔭 My Stats :
 <div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vespertine112&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&fire=DD5852)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vespertine112&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 </div>
@@ -70,6 +69,5 @@ Here are some ideas to get you started:
 - Email: hillbgh@gmail.com
 - Discord: Vespertine#1865
 - Linkedin: <a href="https://www.linkedin.com/in/brayden-hill/">Brayden Hill</a>
-- My Website: [Braydenhill.dev](https://www.braydenhill.dev/)
 
 <em> I try and stay available, feel free to shoot me a message anytime!</em>
